@@ -1,4 +1,4 @@
-from MSG_Installer import Installatiof
+From MSG_Installer import Installation
 
 Install = Installation()
 print('\nPerforming an artist installation...')
